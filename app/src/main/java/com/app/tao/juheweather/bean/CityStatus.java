@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * Created by Tao on 2016/4/19.
  */
-public class State {
+public class CityStatus {
 
     /**
      * resultcode : 200
